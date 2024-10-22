@@ -1,4 +1,4 @@
-//This program class will define multiple data fields and methods that can be called/used in program # 2 'TestAccountLiford.java'
+//This program class will define multiple data types and methods that can be called/used in program # 2 'TestAccountLiford.java'
 import java.util.Date;
 
 public class AccountLiford {
